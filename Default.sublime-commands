@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "QuickSnippet: List Snippets",
+        "command": "quick_snippet",
+        "args": {"mode": "list"}
+    },
+    {
+        "caption": "QuickSnippet: Add Snippets",
+        "command": "quick_snippet",
+        "args": {"mode": "add"}
+    }
+]
