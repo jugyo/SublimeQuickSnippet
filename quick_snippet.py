@@ -43,7 +43,7 @@ class QuickSnippetCommand(sublime_plugin.TextCommand, PluginSetting):
     def add_snippet(self, text):
         snippets = self.load_snippets()
         snippets.insert(0, text)
-        self.save_snippets(list(set(snippets)))
+        self.save_snippets(snippets)
         self.list()
 
     def list(self):
