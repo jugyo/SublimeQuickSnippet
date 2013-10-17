@@ -3,7 +3,7 @@ SublimeQuickSnippet
 
 Simple alternative snippets for Sublime Text.
 
-![screencast](http://i.imgur.com/3xigYcb.gif)
+![screencast](http://i.imgur.com/oWjBmO3.gif)
 
 ## Installation
 
